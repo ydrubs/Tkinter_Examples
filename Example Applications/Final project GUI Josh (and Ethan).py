@@ -21,7 +21,6 @@ from PIL import Image, ImageTk
 from io import BytesIO
 import time
 
-
 # Functions for calling information
 def get_win_icon(window: tk.Tk):
     # This function requests an image from the url and then sets the window icon to said image
